@@ -155,7 +155,7 @@ a {
 .post-content a{
   color: $brand-color;    
   text-decoration: none;  
-  border-bottom: 1px dotted;
+  .post-content a{   color: $brand-color;       text-decoration: none;      &:visited {                  color: darken($brand-color, 25%);   }                           &:hover {                    color: $hover-color;     text-decoration: none;   }    };
   &:visited {             
     color: darken($brand-color, 25%);
   }                       
@@ -313,7 +313,7 @@ table tr th :last-child, table tr td :last-child { margin-bottom: 0; }
 hr{
   margin-bottom: 30px;
   border: 0;
-  border-bottom: 1px dotted #ccc;
+  .post-content a{   color: $brand-color;       text-decoration: none;      &:visited {                  color: darken($brand-color, 25%);   }                           &:hover {                    color: $hover-color;     text-decoration: none;   }    } #ccc;
 }
 
 cite{ 
