@@ -27,7 +27,6 @@ jobs:
       - name: Install Jekyll
         run: |
           gem install jekyll
-          gem install sass
 
       - name: Build site
         run: jekyll build
