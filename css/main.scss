@@ -63,7 +63,7 @@ $on-laptop:        800px;
 @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
 .about img {
     width: 100%;
-    height: auto;
+    aspect-ratio: 1 / 1;
     object-fit: cover;
     border-radius: 15px;
 }
