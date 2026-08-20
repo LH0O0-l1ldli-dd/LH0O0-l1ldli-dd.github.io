@@ -298,12 +298,14 @@ time{
  */
 
 
-.img-about{
-  width: 300px;
-  height: 300px;
-  border-radius: 15px;
-  margin: 0 auto;
-  display: block;
+.about{
+  img{
+    width: 300px;
+    height: 300px;
+    border-radius: 15px;
+    margin: 0;
+    display: block;
+  }
 }
 
 .about-name {
