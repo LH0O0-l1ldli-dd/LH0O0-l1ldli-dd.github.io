@@ -1,9 +1,9 @@
 ### Site info:
 title: The museum is a little noisy
 tagline: Another Jekyll theme, Freshman twenty-first
-author: Ling Hsiao
-email: yu@lijiayu.net
-description: "Notes on Museum, Visual Culture and Research." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+author: Hsiao Ling
+email: jhothal@hotmail.com
+description: "Notes on Museum Fun, Visual Culture and Research." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "Museum studies, Preventive Conservation, Culture"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://lh000-l1ldli-dd.github.io" # the base hostname & protocol for your site
@@ -14,7 +14,7 @@ twitter_username: yulijia
 github_username:  yulijia
 disqus_shortname: freshman21
 favicon:     "/images/favicon.ico"
-aboutme: Hi, this is Lijia Yu. I made the Freshman21 theme. Please enjoy it. # these are shown on aboutme-sidebar.
+aboutme: "I explore Taiwanese culture, help adults get closer to art, and love creating little surprises in museums." # these are shown on aboutme-sidebar.
 aboutme_photo: https://i.imgur.com/Mdc4szJl.jpg# your photo.
 google_analytics_key: UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
 
