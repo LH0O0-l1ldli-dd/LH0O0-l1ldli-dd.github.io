@@ -2,7 +2,7 @@
 layout: post
 title: Notes on Taiwanese Museums
 date: 2026-08-20
-categories: Museum
+categories: 想想未來文化
 ---
 
 I am interested in how museums in Taiwan connect culture, collections, and everyday life.
