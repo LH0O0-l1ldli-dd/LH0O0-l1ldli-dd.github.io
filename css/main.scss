@@ -62,8 +62,8 @@ $on-laptop:        800px;
 @import url('http://fonts.googleapis.com/css?family=Lato');
 @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
 .about img {
-    width: 120px;
-    height: 120px;
+    width: 100%;
+    height: auto;
     object-fit: cover;
     border-radius: 15px;
 }
