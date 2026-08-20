@@ -27,6 +27,7 @@ jobs:
       - name: Install Jekyll
         run: |
           gem install jekyll
+          gem install jekyll-paginate
 
       - name: Build site
         run: jekyll build
