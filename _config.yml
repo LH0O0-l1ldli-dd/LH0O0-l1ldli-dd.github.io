@@ -14,7 +14,7 @@ twitter_username:
 github_username:  LH000-l1ldli-dd
 disqus_shortname: freshman21
 favicon:     "/favicon.png"
-aboutme: "I explore Taiwanese culture, help adults get closer to art, and love creating little surprises in museums." # these are shown on aboutme-sidebar.
+aboutme:
 aboutme_photo: "/images/luliibandw.jpg" # your photo.
 google_analytics_key: UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
 
@@ -58,11 +58,11 @@ locales:
       PostDate: "| 发表时间: "
       Google_search: "站内搜索"
       Home: "首页"
-      About: "关于"
+      : "关于"
       Guestbook: "留言"
       Subscribe: "订阅"
     jp:
-      Aboutme: "著者"
+      me: "著者"
       Archives: "アーカイブ"
       Blogroll: "ブログロール"
       Categories: "カテゴリー"
@@ -76,11 +76,11 @@ locales:
       PostDate: "| 投稿日時: "
       Google_search: "サイト内検索"
       Home: "ホーム"
-      About: "このブログについて"
+      : "このブログについて"
       Guestbook: "メッセージ"
       Subscribe: "購読"
     pl:
-      Aboutme: "O mnie"
+      me: "O mnie"
       Archives: "Archiwum"
       Blogroll: "Odnośniki"
       Categories: "Kategorie"
@@ -94,11 +94,11 @@ locales:
       PostDate: "on "
       Google_search: "Wyszukiwarka"
       Home: "Strona główna"
-      About: "O mnie"
+      : "O mnie"
       Guestbook: "Księga gości"
       Subscribe: "Subskrypcja"
     kr:
-      Aboutme: "저자 소개"
+      me: "저자 소개"
       Archives: "모든 게시물"
       Blogroll: "참조 링크"
       Categories: "카테고리"
@@ -112,11 +112,11 @@ locales:
       PostDate: "작성일: "
       Google_search: "게시물 검색"
       Home: "홈"
-      About: "소개"
+      : "소개"
       Guestbook: "방명록"
       Subscribe: "구독하기"
     ru:
-      Aboutme: "Обо мне" # = 'About me'
+      me: "Обо мне" # = ' me'
       Archives: "Архив"
       Blogroll: "Ссылки" # = 'Links'
       Categories: "Разделы"
@@ -130,11 +130,11 @@ locales:
       PostDate: ""
       Google_search: "Поиск на Google"
       Home: "Домой"
-      About: "О блоге"            # = 'About blog'
+      : "О блоге"            # = ' blog'
       Guestbook: "Гостевая книга"
       Subscribe: "Подписаться"
     tr:
-      Aboutme: "Hakkımda"
+      me: "Hakkımda"
       Archives: "Arşivler"
       Blogroll: "Bağlantılar"
       Categories: "Kategoriler"
@@ -148,7 +148,7 @@ locales:
       PostDate: "şu tarihte:"
       Google_search: "Sitede Ara"
       Home: "Anasayfa"
-      About: "Hakkında"
+      : "Hakkında"
       Guestbook: "Konuk Defteri"
       Subscribe: "Abone Ol"
     id:
