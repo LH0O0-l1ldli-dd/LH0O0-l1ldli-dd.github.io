@@ -13,7 +13,7 @@ locale: en_US
 twitter_username: 
 github_username:  LH000-l1ldli-dd
 disqus_shortname: freshman21
-favicon:     "/images/favicon.ico"
+favicon:     "/favicon.png"
 aboutme: "I explore Taiwanese culture, help adults get closer to art, and love creating little surprises in museums." # these are shown on aboutme-sidebar.
 aboutme_photo: "/images/luliibandw.jpg" # your photo.
 google_analytics_key: UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
