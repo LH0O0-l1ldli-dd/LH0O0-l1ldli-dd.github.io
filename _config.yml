@@ -76,7 +76,7 @@ locales:
       PostDate: "| 投稿日時: "
       Google_search: "サイト内検索"
       Home: "ホーム"
-      : "このブログについて"
+      About: "このブログについて"
       Guestbook: "メッセージ"
       Subscribe: "購読"
     pl:
@@ -94,7 +94,7 @@ locales:
       PostDate: "on "
       Google_search: "Wyszukiwarka"
       Home: "Strona główna"
-      : "O mnie"
+      About: "O mnie"
       Guestbook: "Księga gości"
       Subscribe: "Subskrypcja"
     kr:
@@ -112,7 +112,7 @@ locales:
       PostDate: "작성일: "
       Google_search: "게시물 검색"
       Home: "홈"
-      : "소개"
+      About: "소개"
       Guestbook: "방명록"
       Subscribe: "구독하기"
     ru:
@@ -130,7 +130,7 @@ locales:
       PostDate: ""
       Google_search: "Поиск на Google"
       Home: "Домой"
-      : "О блоге"            # = ' blog'
+      About: "О блоге"            # = ' blog'
       Guestbook: "Гостевая книга"
       Subscribe: "Подписаться"
     tr:
@@ -148,7 +148,7 @@ locales:
       PostDate: "şu tarihte:"
       Google_search: "Sitede Ara"
       Home: "Anasayfa"
-      : "Hakkında"
+      About: "Hakkında"
       Guestbook: "Konuk Defteri"
       Subscribe: "Abone Ol"
     id:
