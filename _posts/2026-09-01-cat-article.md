@@ -10,18 +10,18 @@ categories: 碩士生書桌分一半給貓
 ![AIC Essential Competencies](/images/photo_2024-09-11_22-35-31 copy.jpg)
 <span style="display: block; text-align: center; font-size: 13px; color: #777;">古物所學生的抽屜</span>
 
-<div style="font-size: 18px; font-weight: 600; margin-top: 22px; margin-bottom: 10px">森林系與文物修護之間的微妙關係</div>
+<div style="font-size: 16px !important; font-weight: 400 !important; color: #4285E8 !important; margin-top: 22px; margin-bottom: 10px;">森林系與文物修護之間的微妙關係</div>
 
 ![AIC Essential Competencies](/images/IMG_7073.jpeg)
 <span style="display: block; text-align: center; font-size: 13px; color: #777;">造紙纖維顯微照</span>
 
-<div style="font-size: 18px; font-weight: 600; margin-top: 22px; margin-bottom: 10px">修護不僅限於文物</div>
+<div style="font-size: 16px !important; font-weight: 400 !important; color: #4285E8 !important; margin-top: 22px; margin-bottom: 10px;">修護不僅限於文物</div>
 
-<div style="font-size: 18px; font-weight: 600; margin-top: 22px; margin-bottom: 10px">AIC ”Essential Competencies“ 制定的核心能力</div>
+<div style="font-size: 16px !important; font-weight: 400 !important; color: #4285E8 !important; margin-top: 22px; margin-bottom: 10px;">AIC ”Essential Competencies“ 制定的核心能力</div>
 
-<div style="font-size: 18px; font-weight: 600; margin-top: 22px; margin-bottom: 10px">1930年的美國</div>
+<div style="font-size: 16px !important; font-weight: 400 !important; color: #4285E8 !important; margin-top: 22px; margin-bottom: 10px;">1930年的美國</div>
 
-<div style="font-size: 18px; font-weight: 600; margin-top: 22px; margin-bottom: 10px">後記</div>
+<div style="font-size: 16px !important; font-weight: 400 !important; color: #4285E8 !important; margin-top: 22px; margin-bottom: 10px;">後記</div>
 
 ![AIC Essential Competencies](/images/IMG_5157.JPG)
 <span style="display: block; text-align: center; font-size: 13px; color: #777;">渴望週末到來的住院期間</span>
