@@ -9,7 +9,7 @@ categories: 碩士生書桌分一半給貓
 
 <img src="/images/photo_2024-09-11_22-35-31 copy.jpg"
      alt="AIC Essential Competencies"
-     style="display: block; width: 70% !important; height: auto; margin: 24px auto 0 auto;">
+     style="display: block; width: 80% !important; height: auto; margin: 24px auto 0 auto;">
 <span style="display: block; text-align: center; font-size: 13px; color: #777;">古物所學生的抽屜</span>
 
 <div style="font-size: 16px !important; font-weight: 400 !important; color: #0F3344 !important; margin-top: 22px; margin-bottom: 10px;">修護不僅限於文物</div>
@@ -21,7 +21,7 @@ categories: 碩士生書桌分一半給貓
 
 <img src="/images/subject.jpg"
      alt="森林系大學生與博物館與古物維護研究所生的共通基礎科目"
-     style="display: block; width: 70% !important; height: auto; margin: 24px auto 0 auto;">
+     style="display: block; width: 80% !important; height: auto; margin: 24px auto 0 auto;">
 <span style="display: block; text-align: center; font-size: 13px; color: #777;">森林系大學生與博物館與古物維護研究所生的共通基礎科目</span>
 
 <img src="/images/IMG_7073.jpeg"
@@ -37,7 +37,7 @@ categories: 碩士生書桌分一半給貓
 
 <img src="/images/IMG_5157.JPG"
      alt="渴望週末到來的住院期間"
-     style="display: block; width: 70% !important; height: auto; margin: 24px auto 0 auto;">
+     style="display: block; width: 80% !important; height: auto; margin: 24px auto 0 auto;">
 <span style="display: block; text-align: center; font-size: 13px; color: #777;">渴望週末到來的住院期間</span>
 
 Reference
