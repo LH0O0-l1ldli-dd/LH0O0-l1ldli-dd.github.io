@@ -18,6 +18,31 @@ categories: 碩士生書桌分一半給貓
 
 <div style="font-size: 17px !important; font-weight: 700 !important; color: #0F3344 !important; margin-top: 22px; margin-bottom: 10px;">修護不僅限於文物</div>
 
+屬於 “文化遺產 Culture Heritage” 的物件，因為文化、歷史、物質、政治、宗教等價值，而有了意義。在 UNESCO 定義的文化遺產範疇下，這些文資領域都能看到 Conservator 的身影。
+
+<figure style="width: 85%; margin: 24px auto 30px auto;">
+  <img src="/images/cultureheritageeg.png"
+       alt="1972 年保護世界文化與自然遺產公約定義的 “文化遺產” "
+       style="display: block; width: 100% !important; height: auto;">
+  <figcaption style="text-align: center; font-size: 13px; color: #777; margin-top: 6px;">
+    1972 年保護世界文化與自然遺產公約定義的文化遺產
+  </figcaption>
+</figure>
+
+<figure style="width: 85%; margin: 24px auto 30px auto;">
+  <img src="/images/cultureheritageChi.png"
+       alt="1972 年保護世界文化與自然遺產公約簡體字版 "
+       style="display: block; width: 100% !important; height: auto;">
+  <figcaption style="text-align: center; font-size: 13px; color: #777; margin-top: 6px;">
+    1972 年保護世界文化與自然遺產公約簡體字版
+  </figcaption>
+</figure>
+
+
+1.Monuments 文化紀念物
+2.Groups of buildings 建築群
+3.Sites 遺址
+
 
 <div style="font-size: 17px !important; font-weight: 700 !important; color: #0F3344 !important; margin-top: 22px; margin-bottom: 10px;">森林系與文物修護之間的微妙關係</div>
 
