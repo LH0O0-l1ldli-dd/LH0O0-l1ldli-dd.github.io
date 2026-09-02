@@ -19,7 +19,7 @@ categories: 碩士生書桌分一半給貓
 <div style="font-size: 16px !important; font-weight: 400 !important; color: #0F3344 !important; margin-top: 22px; margin-bottom: 10px;">修護不僅限於文物</div>
 
 
-<div style="font-size: 16px !important; font-weight: 400 !important; color: #0F3344 !important; margin-top: 22px; margin-bottom: 10px;">森林系與文物修護之間的微妙關係</div>
+<div style="font-size: 16px !important; font-weight: 700 !important; color: #0F3344 !important; margin-top: 22px; margin-bottom: 10px;">森林系與文物修護之間的微妙關係</div>
 
 從修護所需要上的基礎課來看，過去主修材料、數理、化學、醫農學群的人，銜接的熟悉度會比較高。我的課程有基礎化學、材料學（包含上各種紙質、攝影作品、織品、礦物顏料、染料的構成），當然其中都有化學原理需要了解。而森林系是圍繞在樹木、植物和保育這三件事情當中；樹木與木材怎麼運用有關，植物則是學分類學為主，保育可以往森林或動物、昆蟲等等的公部門或 NPO 發展。以材料學所談的紙質文物在市場上的修護需求及所佔的數量又是最常態的，因此就得先學習植物學了。而我個人更多的興趣是在做植物標本和森林療癒、森林副產物，這些與美有關的事物，因此才把我帶往有藏品及教育功能的博物館去。
 
