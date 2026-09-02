@@ -19,7 +19,7 @@ categories: 碩士生書桌分一半給貓
 
 有許多關於成為一位保存修護師知能與技能的專訪文章，然而多數都沒有一致與絕對的說法。在台灣，非博物館與修護圈子的人，多半不清楚文物修護的內涵，他們下意識會脫口而出的詞彙總是「故宮」。「故宮」似乎就是修護的全部樣貌。在我進入文物修護學程的第二年，我仍然不覺得走到「修護領域」的起點，反而湧現距離起點還很遙遠的感受，而這些了然於心，發現於我的日常身體訊號和察覺自我的有限性。
 
-<img src="/images/subject.jpg"
+<img src="/images/v2courses.jpg"
      alt="森林系大學生與博物館與古物維護研究所生的共通基礎科目"
      style="display: block; width: 80% !important; height: auto; margin: 24px auto 0 auto;">
 <span style="display: block; text-align: center; font-size: 13px; color: #777;">森林系大學生與博物館與古物維護研究所生的共通基礎科目</span>
