@@ -25,24 +25,27 @@ categories: 碩士生書桌分一半給貓
        alt="1972 年保護世界文化與自然遺產公約定義的 “文化遺產” "
        style="display: block; width: 100% !important; height: auto;">
   <figcaption style="text-align: center; font-size: 13px; color: #777; margin-top: 6px;">
-    1972 年保護世界文化與自然遺產公約定義的文化遺產
+    1972 年《保護世界文化與自然遺產公約》定義的文化遺產
   </figcaption>
 </figure>
 
 <figure style="width: 85%; margin: 24px auto 30px auto;">
   <img src="/images/cultureheritageChi.png"
-       alt="1972 年保護世界文化與自然遺產公約簡體字版 "
+       alt="1972 年《保護世界文化與自然遺產公約》簡體字版 "
        style="display: block; width: 100% !important; height: auto;">
   <figcaption style="text-align: center; font-size: 13px; color: #777; margin-top: 6px;">
-    1972 年保護世界文化與自然遺產公約簡體字版
+    1972 年《保護世界文化與自然遺產公約》簡體字版
   </figcaption>
 </figure>
 
+<div style="margin-left: 24px;">
+  1. Monuments 文化紀念物<br>
+  2. Groups of buildings 建築群<br>
+  3. Sites 遺址<br>
+</div>
 
-1.Monuments 文化紀念物
-2.Groups of buildings 建築群
-3.Sites 遺址
-
+故宮裡的文物，不屬於 UNESCO 定義的文化遺產。現行 UNESCO《世界遺產公約》的登錄制度不接受可移動遺產（movable heritage）作為世界遺產提名對象。所以像是清代宮廷珍玩肉形石或Giorgione 的名畫《The Tempest》這種可移動的架上繪畫；多數博物館內可移動的藏品，都不能單獨登錄為 World Heritage；不過在臺灣《文化資產保存法》下可以賦予肉形石「重要古物」的法定身分。  
+這個公約對於 Conservator 的意義比較像是一種倫理指引，要求相關從業者用對待文化遺產的觀念和態度來對待藝術品及文物，會是一位保存修護師一生的功課。
 
 <div style="font-size: 17px !important; font-weight: 700 !important; color: #0F3344 !important; margin-top: 22px; margin-bottom: 10px;">森林系與文物修護之間的微妙關係</div>
 
