@@ -27,7 +27,7 @@ categories: 碩士生書桌分一半給貓
   <img src="/images/pic_2.jpg"
        alt="森林系大學生與博物館與古物維護研究所生的共通基礎科目"
        style="display: block; width: 100% !important; height: auto;">
-  <； style="text-align: center; font-size: 13px; color: #777; margin-top: 6px;">
+  <figcaption style="text-align: center; font-size: 13px; color: #777; margin-top: 6px;">
     森林系大學生與博物館與古物維護研究所生的共通基礎科目
   </figcaption>
 </figure>
