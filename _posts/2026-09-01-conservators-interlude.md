@@ -20,6 +20,12 @@ categories: 碩士生書桌分一半給貓
 
 屬於 “文化遺產 Culture Heritage” 的物件，因為文化、歷史、物質、政治、宗教等價值，而有了意義。在 UNESCO 定義的文化遺產範疇下，這些文資領域都能看到 Conservator 的身影。
 
+<div style="margin-left: 24px;">
+  1. Monuments 文化紀念物<br>
+  2. Groups of buildings 建築群<br>
+  3. Sites 遺址<br>
+</div>
+
 <figure style="width: 85%; margin: 24px auto 30px auto;">
   <img src="/images/cultureheritageeg.png"
        alt="1972 年保護世界文化與自然遺產公約定義的 “文化遺產” "
@@ -38,14 +44,10 @@ categories: 碩士生書桌分一半給貓
   </figcaption>
 </figure>
 
-<div style="margin-left: 24px;">
-  1. Monuments 文化紀念物<br>
-  2. Groups of buildings 建築群<br>
-  3. Sites 遺址<br>
-</div>
+故宮裡的文物，不屬於 UNESCO 定義的文化遺產。現行 UNESCO《世界遺產公約》的登錄制度不接受可移動遺產（movable heritage）作為世界遺產提名對象。所以像是清代宮廷珍玩肉形石或 Giorgione 的名畫《The Tempest》這種可移動的架上繪畫；多數博物館內可移動的藏品，都不能單獨登錄為 World Heritage；不過在臺灣《文化資產保存法》下可以賦予肉形石「重要古物」法定身分。  
 
-故宮裡的文物，不屬於 UNESCO 定義的文化遺產。現行 UNESCO《世界遺產公約》的登錄制度不接受可移動遺產（movable heritage）作為世界遺產提名對象。所以像是清代宮廷珍玩肉形石或Giorgione 的名畫《The Tempest》這種可移動的架上繪畫；多數博物館內可移動的藏品，都不能單獨登錄為 World Heritage；不過在臺灣《文化資產保存法》下可以賦予肉形石「重要古物」的法定身分。  
-這個公約對於 Conservator 的意義比較像是一種倫理指引，要求相關從業者用對待文化遺產的觀念和態度來對待藝術品及文物，會是一位保存修護師一生的功課。
+
+這個公約對於 Conservator 的意義比較像是一種倫理指引，要求相關從業者用對待文化遺產的觀念和態度來對待藝術品及文物，是一位保存修護師一生的功課。
 
 <div style="font-size: 17px !important; font-weight: 700 !important; color: #0F3344 !important; margin-top: 22px; margin-bottom: 10px;">森林系與文物修護之間的微妙關係</div>
 
